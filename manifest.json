@@ -2,7 +2,7 @@
   "manifest_version": 3,
   "name": "Float Keys",
   "version": "2.0.0",
-  "description": "Floating arrow keys and spacebar overlay for any webpage",
+  "description": "Customizable floating keyboard overlay for any webpage. Create your own key layouts, supports custom key combinations, resizing, and dragging.",
   "permissions": ["activeTab", "storage"],
   "content_scripts": [
     {
